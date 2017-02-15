@@ -1,0 +1,1 @@
+Working through Automate the Boring Stuff in order to achieve proficiency in Python.

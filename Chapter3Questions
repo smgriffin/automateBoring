@@ -1,0 +1,35 @@
+1.  Functions are advantageous to have in your programs because they allow you to compartmentalize your code into groups.  The variables of a function exist in their local scopes, not in the global scope or in another functions scope.  This allows you to narrow down which code is changing your variables.
+
+Functions reduce the need for duplicate code.  This makes the program shorter, easier to read, and easier to update.
+
+2. When the function is called.
+
+3. def
+
+4. A function is where the code explains how to handle the arguments and what to return.  While the function call is where actual arguments are passed to the function and returned.  
+
+A function consists of the def statement and the code in its def clause.
+
+A function call is what moves the program execution into the function, and the function call evaluates the function's return value.
+
+5. There is one global scope.  The number of local scopes is equal to the number of functions.
+
+6. The variables in a local scope are forgotten or erased when the function call returns.
+
+7. A return value is the value that is passed at the completion of the function.  The return value can be part of an expression.
+
+8. None
+
+9. You can use global in a function to refer to the global variable.
+
+10. The data type of None is NoneType
+
+11. This statement imports the areallyourpetsnamederic module
+
+12. spam.bacon()
+
+13. You can prevent a program from crashing by using the try and except statements
+
+Place the line of code that might cause an error in a try clause.
+
+14. The portion of the code producing the error goes in the try clause.  While what you want the program to do if an error happens goes in the except clause.

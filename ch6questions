@@ -1,0 +1,27 @@
+1. Escape characters signal to the interpreter that the following character must be interpreted differently than the character on its own.
+
+2. \' single quote \" double quote \t tab \n newline(line break) \\ backslash
+
+3. You can put a backslash by using the escape character \ (\\)
+
+4. Because the string is signaled by double quotes
+
+5. You can use a '''multi line string'''
+
+6. 'E'
+   'Hello'
+   'Hello'
+   'lo world!'
+
+7. 'HELLO'
+   True
+   'hello'
+
+8. ['Remember,', 'remember,', 'the', 'fifth', 'of',  'November.'']
+   'There-can-be-only-one.''
+
+9. .rjust()
+   .ljust()
+   .center()
+
+10. .rstrip() and lstrip.() or .strip() to remove from both ends.

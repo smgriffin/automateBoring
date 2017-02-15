@@ -1,0 +1,46 @@
+1. [] is an empty list value in the same way '' is the empty string value
+
+2.  spam[2] = 'Hello'
+
+spam = ['a', 'b', 'c', 'd']
+
+3. d
+int('3' * 2) is '33' then divided by 11 = 3.
+
+4. d
+
+5. a b
+
+bacon = [3.14, 'cat', 11, 'cat', True]
+
+6. 1
+
+7. [3.14, 'cat', 11, 'cat', True, 99]
+
+8. [3.14, 11, 'cat', True]
+
+9. + and *
+
+10. Append adds to the end of the list.  Insert places it in the index you specify.
+
+11. del and remove()
+
+12. Can get len()
+	+ to concatenate * replicate
+	can be sorted using sort()
+	string liek list of single text characters
+	slicing
+	using them with for loops and len()
+	in and not in operators
+
+13. Lists are mutable and tuples are immuatable.  Lists [] and tuples ()
+
+14. tup = (42,) trailing comma
+
+15. you can use the tuple() function for tuple form of list value and list() function for list form of tuple.
+
+16. Variables that contain lists actually contain a reference to the list values.
+
+17. You use copy.deepcopy() if you have lists that contain inner lists.  The deepcopy() function will copy the inner lists as well.
+
+	copy.copy() function will do a shallow copy of a list, while the copy.deepcopy() will do a deep copy of a list.  That is, only copy.deepcopy() will duplicated any lists inside the list.
